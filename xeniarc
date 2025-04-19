@@ -1,0 +1,4 @@
+#
+# Useful bash aliases and completions.
+
+alias xb='python xenia-build'
