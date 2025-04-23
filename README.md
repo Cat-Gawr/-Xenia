@@ -1,4 +1,5 @@
-# EPO-360
+# Xenia-360 
+
 -------------------------------------------------
 <p align="center">
     <a href="https://github.com/xenia-project/xenia/tree/master/assets/icon">
