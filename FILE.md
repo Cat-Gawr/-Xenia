@@ -112,3 +112,26 @@
 
 606.7.3512: file da leggerlo prima di avviare su KernelOS / Tiny10
 
+--------------------------------------------------------------
+
+
+<h1 align="center"> Come si vede: </h1>
+
+Per vedere se un file è uno di questi, vi dovete vedere, alla fine del file .zip tre o più numeri tipo 
+
+in seguenza : XXX , oppure XXX.X.XX.
+
+per capire se un file è quindi un di qeusti , vi potete aprire all'interno, ma è consigliabile scaricare le versioni:
+
+1 ) 914 : un file normale
+
+2 ) 504 : File che non vi dovete aprirlo con Linux, bensì con un'altro _OS_
+
+3 ) 400 : mi aiuti
+
+4 ) tutta la serie 600
+
+------------------------------------------------------------
+               
+PROGETTO OPEN-SOURCE è GRATIS PER L'AIUTO DELLA LIBERTà                 -      2025 
+
