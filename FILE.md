@@ -19,6 +19,10 @@
 
 512: file con archittettura x86 non riconosciuto dalla MIT license
 
+516.9: file con archittettura x86 non riconosciuto dalla Apache license 
+
+518: foòe con archittettura x64 riconosciuta dalle MIT e Apache License 
+
 
 -------------------------------------------------
 
@@ -58,6 +62,10 @@
 911-913.2 : file che sta venendo letto su VsCode / IDE utilizzato
 
 914: nuova uscita
+
+914.7.9: file riconosciuto parzialmente dalle non-licenze Yui-license e dalla Wuoyn-MIT-License
+
+915: file vecchio caricato 
 
 914.8.1: file ancora da scrivere complettamente prima dell'uscita
 
