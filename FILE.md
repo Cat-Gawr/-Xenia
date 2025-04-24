@@ -21,7 +21,7 @@
 
 516.9: file con archittettura x86 non riconosciuto dalla Apache license 
 
-518: foòe con archittettura x64 riconosciuta dalle MIT e Apache License 
+518: file  con archittettura x64 riconosciuta dalle MIT e Apache License 
 
 
 -------------------------------------------------
