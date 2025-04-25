@@ -171,6 +171,7 @@ Buildbot | Status | Releases | Voto
 
 # IDE Utillizati 🖊️: 
 1  . VsCode ( Windows 10 LSTC IoT ) 
+
    1 . 5 VsCode  -  insiders ( Windows 10 LSTC IoT ) 
 
 ❗ 2  . Vim 
