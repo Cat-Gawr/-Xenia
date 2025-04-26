@@ -103,6 +103,11 @@
 
 
  602.5 file disponibile su Windows LSTC
+
+ >[!CAUTION]
+>
+>P.S, se il file 602.5 è disponibile per LSTC anchei non LSTC lo saranno </h4>
+
  
 603: file disponibile su MacOS( aka hackintosh )
 
