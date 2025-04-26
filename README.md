@@ -32,11 +32,15 @@ linux, macos . Ma solo Windows
 
 <h4>Windows:</h4>
 
-1 - Windows 7
+1 - Windows 7 ( prima era compatibiie con Windowsvista service pack 2 però aumetando i file non è più disponibile ) 
 
-2 - Windows 8 - 8.1
+2 - Windows 8 
 
-3 - Windows 10 - 11
+3 - Windows 8.1
+
+4 - Windows 10  _non_ - LSTC / LSTC 
+
+5 - Windows 11  _non_ - LSTC / LSTC 
 
 <h5>anche tiny e le sue derivate</h5>
 
