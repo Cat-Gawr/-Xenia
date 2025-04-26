@@ -24,7 +24,7 @@ Buildbot | Status | Releases | Voto
 
 -------------------------------------------------------
 
-<h1 align="center"> Cos'è Xenia-360?( Aka EPO ) 
+<h1 align="center"> Cos'è Xenia-360?( Aka EPO ) </h1>
 
 Xenia 360 / EPO:360 è un progetto open-source con ' licenza ' la ' ' Youit-non-license  ' 'di un emulatore di Xbox 360, con 15 giochi comprati, disponibili solo
 sui laptop con MSRP 600€ , il progetto verrà aggiornato fino alla versione finale ogni 3 - 4 giorni, si pensa che entro fine maggio lo finirò, questo emulatore NON accetta
@@ -38,7 +38,7 @@ linux, macos . Ma solo Windows
 
 3 - Windows 10 - 11
 
-<h5>anche tiny e le seu derivate</h5>
+<h5>anche tiny e le sue derivate</h5>
 
 il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio e 19 maggio, per eventuali modfiche a FLS4, DeepSeek Cuda e IOT_L1
 
