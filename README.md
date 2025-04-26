@@ -174,6 +174,33 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
 
                 - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
 
+
+# ide che consiglio:
+
+   - Visual Studio Code
+
+   - Visual Studio Code - insiders
+
+    - Visual Studio year ( ovvero Visual Studio 2022 ecc..)
+      - il Fork di VsCode ovvero  Cursor 
+      - il Fork di VsCode ovvero  VSCodium
+
+  
+
+  - Sublime Text
+    
+  - Notepad++
+    
+  - Atom  ( attenzione , se in atom è difficile NON farlo ! )
+    
+  - Eclipse
+    
+  - IntelliJ IDEA
+     
+  - NetBeans 
+
+                
+
 >[!CAUTION]
 >
 >per Visual Basic ( VS B ) non sarà possiile modificare l'app .
