@@ -1,0 +1,1 @@
+XE_MODULE_EXPORT_GROUP(xbdm, Misc)
