@@ -32,7 +32,7 @@ linux, macos . Ma solo Windows
 
 <h4>Windows:</h4>
 
-1 - Windows 7 ( prima era compatibiie con Windowsvista service pack 2 però aumetando i file non è più disponibile ) 
+1 - Windows 7 ( prima era compatibiie con Windows vista service pack 2 però aumetando i file non è più disponibile , forse in futuro avrà una versione allegerita chiamata Xenia-180 ) 
 
 2 - Windows 8 
 
