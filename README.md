@@ -19,11 +19,12 @@ fatto con VsCode  ~  Insiders
 Buildbot | Voto 
 -------- |-----
 
-[Windows] Build Passata ✅ | Voto • 9.78 / 10
+<h3>Windows</h3> Build Passata ✅ | Voto • 9.78 / 10
 
-[Linux] Build Passata ✅ | Voto • 9,1 / 10 
+<h3>Linux</h3> Build Passata ✅ | Voto • 9,1 / 10 
 
-oggi Xenia accetta ufficialemente Linux (vedere OS.md)
+
+<h1 align="center">oggi Xenia accetta ufficialemente Linux (vedere OS.md)
 
 
 -------------------------------------------------------
