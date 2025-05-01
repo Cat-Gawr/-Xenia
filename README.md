@@ -16,10 +16,12 @@ fatto con VsCode  ~  Insiders
 ----------------------------------------------
 ## Status
 
-Buildbot | Status | Releases | Voto 
--------- | ------ | -------- | -----
-[Windows](https://ci.appveyor.com/project/benvanik/xenia/branch/master) | [![Build status](https://ci.appveyor.com/api/projects/status/ftqiy86kdfawyx3a/branch/master?svg=true)](https://ci.appveyor.com/project/benvanik/xenia/branch/master) | [Latest](https://github.com/xenia-project/release-builds-windows/releases/latest) ◦ [All](https://github.com/xenia-project/release-builds-windows/releases) | Voto • 9,7 / 10 
-[Linux](https://ci.appveyor.com/project/benvanik/xenia/branch/master) | [![Build status](https://ci.appveyor.com/api/projects/status/ftqiy86kdfawyx3a/branch/master?svg=true)](https://ci.appveyor.com/project/benvanik/xenia/branch/master) | [Latest](https://github.com/xenia-project/release-builds-windows/releases/latest) ◦ [All](https://github.com/xenia-project/release-builds-windows/releases) | Voto • 9,1 / 10 
+Buildbot | Voto 
+-------- |-----
+
+[Windows] Build Passata ✅ | Voto • 9.78 / 10
+
+[Linux] Build Passata ✅ | Voto • 9,1 / 10 
 
 oggi Xenia accetta ufficialemente Linux (vedere OS.md)
 
