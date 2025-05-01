@@ -1,5 +1,4 @@
-#Tutti gli OS compatibili 
-
+<h1>Tutti gli OS compatibili </h1>
 
 <h3>Windows •</h3>
 
