@@ -24,7 +24,7 @@ Buildbot | Voto
 <h3>Linux</h3> Build Passata ✅ | Voto • 9,1 / 10 
 
 
-<h1 align="center">oggi Xenia accetta ufficialemente Linux (vedere OS.md)
+<h1 align="center">oggi Xenia accetta ufficialmente  Linux (vedere OS.md)
 
 
 -------------------------------------------------------
