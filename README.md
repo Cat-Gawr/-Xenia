@@ -183,8 +183,7 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
           
             - TeX2RTF
 
-                - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
-
+                - TeX2HTML ( tutti gli TeX avranno un ritardo di 2 giorni ) 
 
 # ide che consiglio:
 
