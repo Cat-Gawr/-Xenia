@@ -214,7 +214,7 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
 >[!CAUTION]
 >
 >per Visual Basic ( VS B ) non sarà possiile modificare l'app .
-
+>
 >per maggiore problemi non usare Vs B ma VsCode o VIM
 
 
