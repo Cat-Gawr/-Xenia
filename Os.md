@@ -61,6 +61,11 @@ p.s tutti i windows sono compatibili dall'ultima versione di windows 7 in poi, a
 
 <h3>Linux</h3>
 <h5>tutti</h5>
+
+>[!CAUTION]
+>non sono tutti
+>
+>nel dubbio vi dico tutte le 100 distro
 Ubuntu
 
 Debian
@@ -68,6 +73,10 @@ Debian
 Fedora
 
 Arch Linux
+
+Cachy_OS_
+
+Endeavour _OS_
 
 Manjaro
 
@@ -83,7 +92,7 @@ Zorin OS
 
 MX Linux
 
-EndeavourOS
+Archcraft 
 
 Kali Linux
 
@@ -95,7 +104,7 @@ AlmaLinux
 
 Rocky Linux
 
-Slackware
+Slackware ( più complicato nel'avvio ) 
 
 Void Linux
 
@@ -159,7 +168,7 @@ Trisquel
 
 Ubuntu Studio
 
-Ubuntu MATE
+Ubuntu MATE ( può essere non più compatibile ) 
 
 Lubuntu
 
@@ -181,9 +190,9 @@ Elive
 
 Porteus
 
-Tiny Core Linux
+Tiny Core Linux (TCL)
 
-Damn Small Linux
+Damn Small Linux (DSL)
 
 GParted Live
 
