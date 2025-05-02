@@ -1,1 +1,3 @@
-prevista entro il 3 maggio del 2025, la youit license verrà cosegnata con un giorno di previsto
+<h1 align="center"> Yuoit-License</h1>
+
+uguale a quella di GNU
