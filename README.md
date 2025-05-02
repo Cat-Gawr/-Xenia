@@ -2,7 +2,7 @@
 
 -------------------------------------------------
 
-![Image](https://github.com/user-attachments/assets/08ff4a4a-d476-4857-8619-e99d745fe42c)
+![Image](https://github.com/user-attachments/assets/eb46233b-8923-43a9-863b-1fe785231c83)
 <h1 align="center">Xenia - Xbox 360 Emulator</h1>
 
 Xenia è un emulatore di Xbox per Laptop MSRP 600 €, fatto  in un bel po' di linguaggi di programmazione 
