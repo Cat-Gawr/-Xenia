@@ -226,25 +226,20 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
 ------------------------------------------------------
 
 # IDE Utillizati 🖊️: 
-1  . VsCode ( Windows 10 LSTC IoT ) 
+1 ~ Visual Studio Code - Insiders
 
-   1 . 5 VsCode  -  insiders ( Windows 10 LSTC IoT ) 
+2 ~ Vim ( Lazy )
 
-❗ 2  . Vim 
+3 ~ Helix
 
-3  . Pycharm ( ' ) 
+4 ~ Atom 
 
-4  .  CMake
+5 ~ Visual Studio 2022 
 
-5  .  Cursore AI e  Atom
-
-6  .  Visual Studio 2022
-
-7  .  Visual Studio COde { VsCODE } - insiders
 
 
 
 ----------------------------------------------------------------
 
-
+<h4 align="center">Progetto Copyright ~ Konata 2025 , si accetta tutti gli OS , Windows, MacOs e Linux </h4>
 
