@@ -1,12 +1,8 @@
 <h1 align="center"> Xenia-360 
 
 -------------------------------------------------
-<p align="center">
-    <a href="https://github.com/xenia-project/xenia/tree/master/assets/icon">
-        <img height="120px" src="https://raw.githubusercontent.com/xenia-project/xenia/master/assets/icon/128.png" />
-    </a>
-</p>
 
+![Image](https://github.com/user-attachments/assets/08ff4a4a-d476-4857-8619-e99d745fe42c)
 <h1 align="center">Xenia - Xbox 360 Emulator</h1>
 
 Xenia è un emulatore di Xbox per Laptop MSRP 600 €, fatto  in un bel po' di linguaggi di programmazione 
