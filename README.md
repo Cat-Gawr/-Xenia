@@ -18,11 +18,11 @@ Buildbot | Voto
 <h3>Windows</h3> Build Passata ✅  
 <h4>Voto • 9.78 / 10</h4>
 
-<h3>Linux</h3>   Build Passata ✅    
-<h4>Voto • 9.78 / 10</h4>
+<h3>Linux</h3>   Build da rivedere⚠️    
+<h4>Voto • 6.78 / 10</h4>
 
 
-<h1 align="center">oggi Xenia accetta ufficialmente  Linux (vedere OS.md)
+<h1 align="center">oggi Xenia '' accetta '' ufficialmente  Linux (vedere OS.md)
 
 
 -------------------------------------------------------
