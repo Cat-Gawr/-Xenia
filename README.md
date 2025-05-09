@@ -76,6 +76,9 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
       - il Fork di VsCode ovvero  VSCodium
    
     - PyCharm
+
+
+    - Helix
     
     - Sublime Text
     
@@ -95,9 +98,14 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
     - Xcode( solo per Mac )
     
     - WebStorm
+    
       - PhpStorm
+      
       - DataGrip 
+      
       - RubyMine
+
+      
     
     - AppCode
     
@@ -113,7 +121,16 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
     
     - Brackets
     
-    - Vim( solo per Linux , ma anche per il OS di Apple [ Mac os ] )     
+    - Vim{ su Linux e MacOS } 
+
+         della serie : 
+
+         1. LazyVim
+
+         2. Nvim
+
+         
+          
     
     - Emacs
     
