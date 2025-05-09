@@ -237,5 +237,5 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
 
 ----------------------------------------------------------------
 
-<h4 align="center">Progetto Copyright ~ Konata 2025 , si accetta tutti gli OS , Windows, MacOs e Linux </h4>
+<h5 align="center">Progetto Copyright ~ Konata 2025 , si accetta tutti gli OS , Windows, MacOs e Linux </h5>
 
